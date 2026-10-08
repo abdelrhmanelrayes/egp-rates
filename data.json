@@ -38,35 +38,35 @@
         "id": "kfh",
         "name": "بيت التمويل الكويتي",
         "url": "https://www.kfh.com/home/Personal/Tools-services/Currency-Rates.html",
-        "status": "ok",
         "transferBuy": 0.005812,
-        "transferSell": 0.005967
+        "transferSell": 0.005967,
+        "status": "ok"
       },
       {
         "id": "abk",
         "name": "البنك الأهلي الكويتي",
         "url": "https://abk.eahli.com/ar/treasury-page/treasury/#ABK-treasury",
-        "status": "ok",
         "transferBuy": 0.00528,
-        "transferSell": 0.00632
+        "transferSell": 0.00632,
+        "status": "ok"
       },
       {
         "id": "kib",
         "name": "بنك الكويت الدولي",
         "url": "https://www.kib.com.kw/en/home/Business.html",
-        "status": "ok",
-        "transferSell": 0.00611
+        "transferSell": 0.00611,
+        "status": "ok"
       },
       {
         "id": "almulla",
         "name": "الملا للصرافة",
         "url": "https://www.almullaexchange.com/ar/",
-        "status": "ok",
         "transferSell": 0.006072,
+        "status": "ok",
         "fee": 1.5
       }
     ],
-    "updatedAt": "2026-10-08T16:03:09+03:00"
+    "updatedAt": "2026-10-08T16:03:37+03:00"
   },
   "history": {
     "points": [
@@ -86,7 +86,12 @@
         "t": "2026-10-08T13:12:58+03:00"
       },
       {
-        "t": "2026-10-08T16:03:09+03:00",
+        "bank": "cbk",
+        "best": 169.18,
+        "t": "2026-10-08T16:03:09+03:00"
+      },
+      {
+        "t": "2026-10-08T16:03:37+03:00",
         "best": 169.18,
         "bank": "cbk"
       }
