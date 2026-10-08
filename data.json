@@ -1,0 +1,90 @@
+{
+ "latest": {
+  "banks": [
+   {
+    "id": "burgan",
+    "name": "بنك برقان",
+    "status": "ok",
+    "transferBuy": 0.0058401,
+    "transferSell": 0.0059478,
+    "url": "https://webapps.burgan.com/BurganRates/Rates.aspx"
+   },
+   {
+    "id": "nbk",
+    "name": "بنك الكويت الوطني",
+    "status": "ok",
+    "transferBuy": 0.0059497,
+    "transferSell": 0.0060253,
+    "url": "https://www.nbk.com/ar/kuwait/personal/investments/currency-rates.html"
+   },
+   {
+    "id": "boubyan",
+    "name": "بنك بوبيان",
+    "status": "ok",
+    "transferBuy": 0.005654,
+    "transferSell": 0.006088,
+    "url": "https://www.bankboubyan.com/en/exchange-rates"
+   },
+   {
+    "cashSell": 0.005911,
+    "id": "cbk",
+    "name": "البنك التجاري",
+    "rateType": "cash",
+    "status": "ok",
+    "transferSell": 0.005911,
+    "url": "https://www.cbk.com/ar/Rates--Markets/Foreign-Exchange-Rates"
+   },
+   {
+    "id": "kfh",
+    "name": "بيت التمويل الكويتي",
+    "status": "ok",
+    "transferBuy": 0.005846,
+    "transferSell": 0.005929,
+    "url": "https://www.kfh.com/home/Personal/Tools-services/Currency-Rates.html"
+   },
+   {
+    "id": "abk",
+    "name": "البنك الأهلي الكويتي",
+    "status": "ok",
+    "transferBuy": 0.00558,
+    "transferSell": 0.00609,
+    "url": "https://abk.eahli.com/ar/treasury-page/treasury/#ABK-treasury"
+   },
+   {
+    "id": "kib",
+    "name": "بنك الكويت الدولي",
+    "status": "ok",
+    "transferSell": 0.006011,
+    "url": "https://www.kib.com.kw/en/home/Business.html"
+   },
+   {
+    "fee": 1.5,
+    "id": "almulla",
+    "name": "الملا للصرافة",
+    "status": "ok",
+    "transferSell": 0.006072,
+    "url": "https://www.almullaexchange.com/ar/"
+   }
+  ],
+  "updatedAt": "2026-10-08T13:27:00+03:00"
+ },
+ "history": {
+  "points": [
+   {
+    "bank": "burgan",
+    "best": 168.13,
+    "t": "2026-10-08T12:30:00+03:00"
+   },
+   {
+    "bank": "kfh",
+    "best": 168.66,
+    "t": "2026-10-08T12:32:00+03:00"
+   },
+   {
+    "bank": "cbk",
+    "best": 169.18,
+    "t": "2026-10-08T13:12:58+03:00"
+   }
+  ]
+ }
+}
